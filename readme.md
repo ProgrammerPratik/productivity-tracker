@@ -1,6 +1,10 @@
 
 # Productivity Tracker
-https://github.com/ProgrammerPratik/R-projects/assets/84035830/eed48d05-a293-488b-8afa-6ca1708b721c
+
+https://github.com/ProgrammerPratik/productivity-tracker/assets/84035830/acd07999-109e-41be-83ee-5035b43a5b77
+
+
+
 
 ## Overview
 
